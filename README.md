@@ -10,7 +10,11 @@ This is where the magic happens. Each ad is a self-contained, high-performance w
 
 ### 💎 Gem Matcher
 
-[![Gem Matcher Playable Ad Screenshot](https://raw.githubusercontent.com/ratul-rahman/playable-ads-portfolio/main/ads/gem-matcher/gem-matcher-promo.png)](https://ratul-rahman.github.io/playable-ads-portfolio/ads/gem-matcher/)
+<p align="center">
+  <a href="https://ratul-rahman.github.io/playable-ads-portfolio/ads/gem-matcher/">
+    <img src="https://raw.githubusercontent.com/ratul-rahman/playable-ads-portfolio/main/ads/gem-matcher/gem-matcher-promo.png" alt="Gem Matcher Playable Ad Screenshot" width="700">
+  </a>
+</p>
 
 > A classic match-3 experience, rebuilt for the modern web. Insanely fast, ridiculously small, and ready to convert users for your main game.
 
