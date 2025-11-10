@@ -53,7 +53,7 @@ This is where the magic happens. Each ad is a self-contained, high-performance w
 > Hyper-addictive idle clicking meets explosive empire growth; a 30-second power fantasy meticulously engineered for maximum player satisfaction and conversion.
 
 *   **[➡️ Play the Live Demo](https://ratul-rahman.github.io/playable-ads-portfolio/ads/cookie-empire/)**
-*   **File Size:** Just `187 KB` (Single, self-contained HTML file)
+*   **File Size:** Just `188 KB` (Single, self-contained HTML file)
 *   **Load Time:** Under `0.3 seconds`
 *   **Technology:** `React`, `TypeScript`, `Vite`, `Tailwind CSS`
 
