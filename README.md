@@ -56,6 +56,9 @@ This is where the magic happens. Each ad is a self-contained, high-performance w
 *   **File Size:** Just `188 KB` (Single, self-contained HTML file)
 *   **Load Time:** Under `0.3 seconds`
 *   **Technology:** `React`, `TypeScript`, `Vite`, `Tailwind CSS`
+*   **Compliance:** `MRAID Compliant`
+*   **Analytics:** Can Track `CLick Links` and `In-Ad Events` with MMP 
+
 
 ---
 
