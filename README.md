@@ -79,6 +79,23 @@ This is where the magic happens. Each ad is a self-contained, high-performance w
 
 ---
 
+### ❄️ Frost World
+
+<p align="center">
+  <a href="https://ratul-rahman.github.io/playable-ads-portfolio/ads/frost-world/">
+    <img src="https://cdn.jsdelivr.net/gh/ratul-rahman/playable-ads-portfolio@main/ads/frost-world/frost-world-promo.png" alt="Frost World Playable Ad Screenshot" width="700">
+  </a>
+</p>
+
+> Clear snow, gather wood, and build your cozy cabin to survive the frozen wilderness.
+
+*   **[➡️ Play the Live Demo](https://ratul-rahman.github.io/playable-ads-portfolio/ads/frost-world/)**
+*   **File Size:** Just `241 KB` (Single, self-contained HTML file)
+*   **Load Time:** Under `0.3 seconds`
+*   **Technology:** `React`, `TypeScript`, `Vite`, `Tailwind CSS`
+*   **Compliance:** `MRAID v2.0 Compliant`
+
+---
 
 *(More playable ads coming soon...)*
 
