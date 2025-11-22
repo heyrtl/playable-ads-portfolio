@@ -94,7 +94,7 @@ This is where the magic happens. Each ad is a self-contained, high-performance w
 *   **Load Time:** Under `0.3 seconds`
 *   **Technology:** `React`, `TypeScript`, `Vite`, `Tailwind CSS`
 *   **Compliance:** `MRAID v2.0 Compliant`
-
+ 
 ---
 
 *(More playable ads coming soon...)*
